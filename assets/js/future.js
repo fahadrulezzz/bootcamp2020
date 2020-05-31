@@ -79,7 +79,7 @@ jQuery(document).ready(function() {
 		targetDate: {
 			'day': 		24,
 			'month': 	12,
-			'year': 	2014,
+			'year': 	2020,
 			'hour': 	11,
 			'min': 		13,
 			'sec': 		0
